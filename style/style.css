@@ -109,7 +109,7 @@ body {
 }
 
 .idea-6 span {
-  font-size: 18rem;
+  font-size: 16rem;
 }
 
 .six {
@@ -211,19 +211,19 @@ body {
 }
 
 .wish-hbd {
-  font-size: 4em;
+  font-size: 3em;
   margin: 0;
   text-transform: uppercase;
 }
 
 .wish h5 {
   font-weight: lighter;
-  font-size: 3rem;
+  font-size: 2.6rem;
   margin: 10px 0 0;
 }
 
 .nine p {
-  font-size: 3rem;
+  font-size: 2.6rem;
   font-weight: lighter;
 }
 
@@ -276,7 +276,7 @@ body {
   }
 
   .idea-6 span {
-    font-size: 12rem;
+    font-size: 10rem;
   }
 
   .six .hat {
@@ -285,15 +285,15 @@ body {
   }
 
   .wish-hbd {
-    font-size: 2.6em;
+    font-size: 2.4em;
   }
 
   .wish h5 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .nine p {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: lighter;
   }
 }
